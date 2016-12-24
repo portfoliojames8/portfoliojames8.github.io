@@ -1,0 +1,104 @@
+p{
+	color:blue;
+	font-size:25px;
+}
+
+video{
+	position: relative;
+	margin-right:40px;
+
+}
+h1{
+	color:#afe231;
+}
+
+.p1{
+	color:#A3A300;
+	font-size:3em;
+}
+
+#background{
+	background-color:black;
+	color:white;
+}
+
+.trivia-wrap{
+	border:10px white double;
+	padding-left:25px;
+
+}
+
+.om {
+	color:#fab112;
+	text-decoration: underline;
+}
+
+.navitem{
+	list-style-type: none;
+	display: inline;
+	padding:10px;
+	padding-right:;
+	margin-right: 25px;
+}
+
+#navmenu{
+	width:290px;
+	height:30px;
+	margin:auto;
+	border-bottom: 6px white ridge;
+
+}
+
+a:link{
+	color:green;
+}
+
+a:visited{
+	color:red;
+}
+
+a:hover{
+	color:white;
+}
+
+a:active{
+	color:yellow;
+}
+
+#rightside{
+	float: right;
+	width: 50%;
+}
+
+#leftside{
+	width: 50%;
+}
+
+#clrfloat{
+	clear:both;
+}
+
+/* Positions.html CSS*/
+#one{
+height: 150px;
+width: 150px;
+background-color: red;
+display: inline-block;
+position: absolute;
+}
+
+#two{
+height: 150px;
+width: 150px;
+background-color: #bbd432;
+display: inline-block;
+position: absolute;
+}
+
+#three{
+height: 150px;
+width: 150px;
+background-color:#aedfac;
+display: inline-block;
+position: absolute;
+}
